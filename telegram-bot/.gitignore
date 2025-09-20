@@ -1,0 +1,61 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Environment files
+.env
+.env.*
+*.env
+
+# VS Code settings
+.vscode/
+
+# Virtual environments (local and in-repo)
+venv/
+.venv/
+ENV/
+env/
+telegram-bot/
+telegram-bot/Include/
+telegram-bot/Lib/
+telegram-bot/Scripts/
+telegram-bot/pyvenv.cfg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python package build
+build/
+dist/
+*.egg-info/
+
+# Misc
+TODO.txt
+
+# Requirements backup
+requirements.txt.bak
+
+# Database
+*.sqlite3
+*.db
+
+# Other
+*.bak
+*.swp
+
+# Gemini/Telegram secrets
+GEMINI_API_KEY
+TELEGRAM_BOT_TOKEN
+
+# Ignore site-packages (installed packages in venv)
+telegram-bot/Lib/site-packages/
