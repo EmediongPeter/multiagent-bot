@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <div align="center">
-  <img src="./hero-banner.jfif" alt="Gemini Telegram Bot" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
+  <img src="https://avatars.githubusercontent.com/u/98168252?s=40&v=4" alt="Gemini Telegram Bot" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
 
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Gemini+Telegram+AI+Bot;Your+Personal+AI+Assistant;Powered+by+Google+Gemini+API" alt="Typing SVG" />
